@@ -4,7 +4,7 @@ import TaskForm from './tasks-Form'
 
 const todos = [
 {
-  task: 'make React tutorial',
+  task: 'make React App',
   isCompleted: false
 },
 {
